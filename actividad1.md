@@ -4,7 +4,7 @@
 -   Entramos dentro con la orden cd ejercicio/
 -   Inicializamos el repositorio en Git, git init.
 -   Con git status veremos en la rama que estamos y si hay algún commit.
-- 
+- daw2/1.png
 
 ### Paso 2:
 - Vamos a crear un script para que el usuario introduzca números.
