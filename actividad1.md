@@ -11,7 +11,7 @@
 - Con nano script.sh entramos al script y hacemos las preguntas al usuario.
 - Con el comando -> ./script.sh ejecutamos el script y le hará las preguntas al usuario.
 - Ejecutamos el comando -> git commit -am "primer commit" para guardar los cambios.
-![foto](https://github.com/Paugomezpallares/daw2/blob/master/2.png)
+![foto](https://github.com/Paugomezpallares/daw2/blob/master/buena.png)
 ![foto](https://github.com/Paugomezpallares/daw2/blob/master/3.png)
 ![foto](https://github.com/Paugomezpallares/daw2/blob/master/6.png)
   
